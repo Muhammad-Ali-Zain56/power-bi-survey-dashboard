@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analyzing a survey of 630 data professionals: roles, salaries, favorite programming languages, countries, job satisfaction, and how hard it was to break into data.
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Tools
 - Power BI
@@ -27,5 +27,6 @@ An interactive Power BI dashboard analyzing a survey of 630 data professionals: 
 - Salary is the lowest-rated satisfaction factor (4.3/10) compared with work/life balance (5.7/10)
 
 ## Files
-- `Data_Professional_Survey_Dashboard.pbix`: the Power BI report
-- `Power_BI_-_Final_Project.xlsx`: the raw survey data
+- `Data Professional Survey Dashboard.pbix`: the Power BI report
+- `Power BI - Final Project_Raw file.xlsx`: the raw survey data
+- `Dashboard.png`: dashboard screenshot
